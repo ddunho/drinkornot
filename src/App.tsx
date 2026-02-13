@@ -19,7 +19,7 @@ type Language = 'ko' | 'en';
 
 const translations = {
   ko: {
-    title: '🍻 술값',
+    title: '🍻 술값 계산',
     totalPeople: '총 인원',
     nonDrinkers: '술 안마신 인원',
     totalAmount: '총 금액 (원)',
