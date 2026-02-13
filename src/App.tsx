@@ -66,7 +66,7 @@ const translations = {
     drinkers: '🍺 Drinkers',
     nonDrinkersLabel: '🥤 Non-Drinkers',
     people: 'people',
-    won: ' won',
+    won: ' dollars',
     alertTotalPeople: 'Please enter the total number of people.',
     alertNonDrinkers: 'Non-drinkers cannot exceed total people.',
   },
