@@ -57,7 +57,7 @@ const translations = {
     unitPrice: 'Unit Price ($)',
     subtotal: 'Subtotal',
     itemName: 'Item Name',
-    itemPlaceholder: 'e.g., Wine, Cocktail, etc.',
+    itemPlaceholder: 'ex) Cocktail',
     addCustomItem: 'Add Custom Item',
     calculate: 'Calculate',
     result: '💰 Calculation Result',
