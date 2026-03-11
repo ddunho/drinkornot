@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { Plus, Trash2, Globe } from 'lucide-react';
 
+// 테스트
+
 interface DrinkItem {
   id: string;
   name: string;
@@ -83,7 +85,7 @@ export default function App() {
     { id: 'beer', name: 'beer', quantity: 0, price: 0 },
     { id: 'highball', name: 'highball', quantity: 0, price: 0 },
   ]);
-  
+
   const [customItems, setCustomItems] = useState<CustomItem[]>([]);
   const [showResult, setShowResult] = useState(false);
 
